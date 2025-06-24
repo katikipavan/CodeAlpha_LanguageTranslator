@@ -27,7 +27,4 @@ It allows users to:
 - HTML/CSS
 - MyMemory Translation API
 - Web Speech API
-
----
-
-> Built with ❤️ by a farmer's son passionate about AI & code 🌱💻
+ 
